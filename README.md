@@ -69,7 +69,7 @@ Run the proxy locally
 1. Create a `.env` in `/server` with:
 
 ```text
-OPENAI_API_KEY=sk-<your-key>
+OPENAI_API_KEY=sk-<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>
 ```
 
 2. From the `/server` folder install and start:
